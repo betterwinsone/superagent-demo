@@ -12,4 +12,4 @@ It prints a greeting to standard output.
 
 ## Notes
 
-This sentance contains a typo on purpose, so an agent has something small to fix.
+This sentence contains a typo on purpose, so an agent has something small to fix.
